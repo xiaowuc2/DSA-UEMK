@@ -42,6 +42,7 @@ print all the prime numbers in a single line and they should be space separated
 2 3 5 7 
 ```
 
+<h1 align="center">.</h1>
 
 **3.** Write a function to calculate GCD of two numbers and then call the function to get GCD of 4 numbers
 
@@ -74,3 +75,7 @@ print the GCD
 ```
 2
 ```
+
+<h1 align="center">.</h1>
+
+
