@@ -21,11 +21,9 @@
 **1.** Write program to find the prime numbers in a range using function.
 
 **Input Format**
-
 n = range of number
 
 **Constraints**
-
 2<=n<=10000
 
 **Output Format**
