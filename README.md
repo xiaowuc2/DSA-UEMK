@@ -37,6 +37,17 @@
 
 ### [Week-3](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-3)
 
+**`Python` `basics`**
+1. Python program to get the volume of a sphere with radius 6. Take pi=3.14
+2. even or odd
+3. area of a circle
+4. height of a triangle and compute the area
+5. subtract the smaller number from the larger number
+6. Take the name, age and address as user input
+7. Write a Python program to solve (x + y) * (x + y)
+8. convert seconds to day, hour, minutes and second
+9. Sort three integers using conditional statements.py
+
 ### [Week-4](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-4)
 
 ### [Week-5](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-5)
