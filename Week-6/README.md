@@ -16,7 +16,6 @@
 
 [.](https://github.com/xiaowuc2/Research/blob/master/README.md)
 
-[.](https://github.com/xiaowuc2/Research/blob/master/README.md)
 
 ### Question Overview <img width="25px" src="https://github.com/xiaowuc2/All-readme-templates/blob/master/sources/overview.jpg" align="center"/>
 
