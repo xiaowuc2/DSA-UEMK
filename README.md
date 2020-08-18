@@ -23,7 +23,7 @@
  8. Display humidity
  9. Second Highest number in Array
 
-### Week-2
+### [Week-2[(https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-2)
 
 * `C languae` `Array` `Data-structure
  1. Take an 1D array of size n. It contains names of students in a class. Print the names in separated lines
@@ -36,10 +36,10 @@
  8. Check whether a matrix of nXm size is sparse or not
  9. Transpose of a matrix
 
-### Week-3
+### [Week-3](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-3)
 
-### Week-4
+### [Week-4](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-4)
 
-### Week-5
+### [Week-5](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-5)
 
-### Week-6
+### [Week-6](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-6)
