@@ -62,6 +62,7 @@
 
 ### [Week-5](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-5)
 
+**`C` `Data-structure` `Pro`**
  1. You have set of numbers stores in a linked list. Take another number n as user input and insert the element in a position in the linked list. the position of insetion is also given by the user
  2. Take a linked list as user input. Copy all the unique elements from that linked list into another new linked list
  3. Add two given polynomil using linked list
