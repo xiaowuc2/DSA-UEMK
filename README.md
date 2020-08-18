@@ -25,6 +25,17 @@
 
 ### Week-2
 
+* `C languae` `Array` `Data-structure
+ 1. Take an 1D array of size n. It contains names of students in a class. Print the names in separated lines
+ 2. Delete duplicate elements in Array
+ 3. Perform multiplication of two polynomial using arrays
+ 4. Perform right shift operation by n on an 1D array of size m. For example say, A[5] = {1,2,3,4,5}. If we are right shifting the elements by 3 then the output will be {4,5,1,2,3}
+ 5. A is a square matrix of dimension nxn. ‘n’ is user input. Calculate the value of the following equation A2+A+I
+ 6. Take a 2D array of size 2Xn. 1st row contains the roll numbers and 2nd row contains corresponding marks in exam. 'n' is the number of students here. Now sort the marks in ascending order along with the roll numbers and
+ 7. You have been given an array of n positive numbers. Now print the same array of n length but here every index will contain the sum of all the elements in the array except the element on that index. For example a[i] = a[0]+a[1]+….+a[i-1]+a[i+1]+…+a[n-1]
+ 8. Check whether a matrix of nXm size is sparse or not
+ 9. Transpose of a matrix
+
 ### Week-3
 
 ### Week-4
