@@ -12,15 +12,15 @@
 ### [Week-1](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-1)
 
 * `C languae` `Array` `Data-structure`
-  1. The average of 10 numbers using Array
-  2. You are given two matrices of dimensions N x N, filled with integers
-  3. Calculate the sum of array elements by passing to a function
-  4. count a total number of duplicate elements in the array using function
-  5. Calculate sum of all elements of an array using pointers as arguments
-  6. Add array element
-  7. Delete elements from Array
-  8. Display humidity
-  9. Second Highest number in Array
+ 1. The average of 10 numbers using Array
+ 2. You are given two matrices of dimensions N x N, filled with integers
+ 3. Calculate the sum of array elements by passing to a function
+ 4. count a total number of duplicate elements in the array using function
+ 5. Calculate sum of all elements of an array using pointers as arguments
+ 6. Add array element
+ 7. Delete elements from Array
+ 8. Display humidity
+ 9. Second Highest number in Array
 
 ### [Week-2](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-2)
 
