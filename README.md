@@ -62,4 +62,14 @@
 
 ### [Week-5](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-5)
 
+1. You have set of numbers stores in a linked list. Take another number n as user input and insert the element in a position in the linked list. the position of insetion is also given by the user
+2. Take a linked list as user input. Copy all the unique elements from that linked list into another new linked list
+3. Add two given polynomil using linked list
+Create 3. Add two given polynomil using linked list
+4. Multiply two given polynomial using linked list
+5. You have a set of numbers stored in a linked list. Find the sum of all numbers in even positions in a linked list
+6. You have a set of elements stored in a linked lsit. Delete all the odd numbers from the linked list
+7. You have two linked lists given. Merge them into a single list
+8. Sort the list using bubble sort
+
 ### [Week-6](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-6)
