@@ -7,6 +7,8 @@
 
 [.](https://github.com/xiaowuc2/Research/blob/master/README.md)
 
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/xiaowuc2/DSA-UEMK"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/xiaowuc2/DSA-UEMK"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/xiaowuc2/DSA-UEMK"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/xiaowuc2/DSA-UEMK"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xiaowuc2/DSA-UEMK"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/xiaowuc2/DSA-UEMK">
+
 ### [Week-1](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-1)
 
 * **`C languange basics-1`**
