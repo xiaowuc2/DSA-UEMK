@@ -25,7 +25,7 @@
 
 ### [Week-2](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-2)
 
-* `C languae` `Array` `Data-structure
+* `C languae` `Array` `Data-structure`
  1. Take an 1D array of size n. It contains names of students in a class. Print the names in separated lines
  2. Delete duplicate elements in Array
  3. Perform multiplication of two polynomial using arrays
