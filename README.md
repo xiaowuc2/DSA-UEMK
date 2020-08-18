@@ -38,38 +38,37 @@
 ### [Week-3](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-3)
 
 **`Python` `basics`**
-1. Python program to get the volume of a sphere with radius 6. Take pi=3.14
-2. even or odd
-3. area of a circle
-4. height of a triangle and compute the area
-5. subtract the smaller number from the larger number
-6. Take the name, age and address as user input
-7. Write a Python program to solve (x + y) * (x + y)
-8. convert seconds to day, hour, minutes and second
-9. Sort three integers using conditional statements
+ 1. Python program to get the volume of a sphere with radius 6. Take pi=3.14
+ 2. even or odd
+ 3. area of a circle
+ 4. height of a triangle and compute the area
+ 5. subtract the smaller number from the larger number
+ 6. Take the name, age and address as user input
+ 7. Write a Python program to solve (x + y) * (x + y)
+ 8. convert seconds to day, hour, minutes and second
+ 9. Sort three integers using conditional statements
 
 ### [Week-4](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-4)
 
 **`Python` `mid-level`**
-1. Take a number n as input and print the sum of all n natural numbers using for loop
-2. Take a number n as input and check whether it is palindrome or not
-3. Take a number n as user input. Find its square root
-4. Print the numbers that are divisible by both 3 and 7 in the range 1 to n. take n as user input
-5. Print the factorial of n. Take n as user input
-6. Armstrong or not
-8. prime or not
-9. print all factors
+ 1. Take a number n as input and print the sum of all n natural numbers using for loop
+ 2. Take a number n as input and check whether it is palindrome or not
+ 3. Take a number n as user input. Find its square root
+ 4. Print the numbers that are divisible by both 3 and 7 in the range 1 to n. take n as user input
+ 5. Print the factorial of n. Take n as user input
+ 6. Armstrong or not
+ 8. prime or not
+ 9. print all factors
 
 ### [Week-5](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-5)
 
-1. You have set of numbers stores in a linked list. Take another number n as user input and insert the element in a position in the linked list. the position of insetion is also given by the user
-2. Take a linked list as user input. Copy all the unique elements from that linked list into another new linked list
-3. Add two given polynomil using linked list
-Create 3. Add two given polynomil using linked list
-4. Multiply two given polynomial using linked list
-5. You have a set of numbers stored in a linked list. Find the sum of all numbers in even positions in a linked list
-6. You have a set of elements stored in a linked lsit. Delete all the odd numbers from the linked list
-7. You have two linked lists given. Merge them into a single list
-8. Sort the list using bubble sort
+ 1. You have set of numbers stores in a linked list. Take another number n as user input and insert the element in a position in the linked list. the position of insetion is also given by the user
+ 2. Take a linked list as user input. Copy all the unique elements from that linked list into another new linked list
+ 3. Add two given polynomil using linked list
+ 4. Multiply two given polynomial using linked list
+ 5. You have a set of numbers stored in a linked list. Find the sum of all numbers in even positions in a linked list
+ 6. You have a set of elements stored in a linked lsit. Delete all the odd numbers from the linked list
+ 7. You have two linked lists given. Merge them into a single list
+ 8. Sort the list using bubble sort
 
 ### [Week-6](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-6)
