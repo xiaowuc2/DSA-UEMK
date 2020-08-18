@@ -1,5 +1,5 @@
 <p align="center">
- <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/original.jpg" align="center" />
+ <img width="250px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/5.jpg" align="center" />
  <h2 align="center">Data Structure and Algorithm | Week-6</h2>
  <h4 align="center">Fork | Use | Develop + video tutorial <img width="25px" src="https://github.com/xiaowuc2/All-readme-templates/blob/master/sources/compass.png" align="center"/></h4></p>
 </p>
