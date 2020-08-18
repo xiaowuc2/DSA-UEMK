@@ -50,6 +50,16 @@
 
 ### [Week-4](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-4)
 
+**`Python` `mid-level`**
+1. Take a number n as input and print the sum of all n natural numbers using for loop
+2. Take a number n as input and check whether it is palindrome or not
+3. Take a number n as user input. Find its square root
+4. Print the numbers that are divisible by both 3 and 7 in the range 1 to n. take n as user input
+5. Print the factorial of n. Take n as user input
+6. Armstrong or not
+8. prime or not
+9. print all factors.py
+
 ### [Week-5](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-5)
 
 ### [Week-6](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-6)
