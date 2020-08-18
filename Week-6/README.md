@@ -16,4 +16,37 @@
 
 [.](https://github.com/xiaowuc2/Research/blob/master/README.md)
 
-### Overview of Question <img width="25px" src="https://github.com/xiaowuc2/All-readme-templates/blob/master/sources/overview.jpg" align="center"/>
+### Question Overview <img width="25px" src="https://github.com/xiaowuc2/All-readme-templates/blob/master/sources/overview.jpg" align="center"/>
+
+
+**1.** Write a function to calculate GCD of two numbers and then call the function to get GCD of 4 numbers
+
+**Input Format**
+
+a = read the 1st no
+
+b = read the 2nd no
+
+c = read the 3rd no
+
+d = read the 4th no
+
+**Constraints**
+
+1<=a,b,c,d<=10000
+
+**Output Format**
+
+print the GCD
+
+**Sample Input 0**
+
+```
+4,16,30,14
+```
+
+**Sample Output 0**
+
+```
+2
+```
