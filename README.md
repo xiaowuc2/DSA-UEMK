@@ -9,7 +9,7 @@
 
 ### [Week-1](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-1)
 
-* C languange basics-1
+* **`C languange basics-1`**
 
 1. The average of 10 numbers using Array
 2. You are given two matrices of dimensions N x N, filled with integers
