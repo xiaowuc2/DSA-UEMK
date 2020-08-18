@@ -46,7 +46,7 @@
 6. Take the name, age and address as user input
 7. Write a Python program to solve (x + y) * (x + y)
 8. convert seconds to day, hour, minutes and second
-9. Sort three integers using conditional statements.py
+9. Sort three integers using conditional statements
 
 ### [Week-4](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-4)
 
@@ -58,7 +58,7 @@
 5. Print the factorial of n. Take n as user input
 6. Armstrong or not
 8. prime or not
-9. print all factors.py
+9. print all factors
 
 ### [Week-5](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-5)
 
