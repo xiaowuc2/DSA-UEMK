@@ -11,7 +11,7 @@
 
 ### [Week-1](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-1)
 
-* `C languae` `Array` `Data-structure`
+`C languae` `Array` `Data-structure`
  1. The average of 10 numbers using Array
  2. You are given two matrices of dimensions N x N, filled with integers
  3. Calculate the sum of array elements by passing to a function
