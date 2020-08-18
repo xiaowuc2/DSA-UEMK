@@ -21,9 +21,11 @@
 **1.** Write program to find the prime numbers in a range using function.
 
 **Input Format**
+
 n = range of number
 
 **Constraints**
+
 2<=n<=10000
 
 **Output Format**
@@ -40,6 +42,34 @@ print all the prime numbers in a single line and they should be space separated
 
 ```
 2 3 5 7 
+```
+
+<h1 align="center">.</h1>
+
+**2.** Take n as input and check which ones are Armstrong number using a function in the range 1 to n.
+
+**Input Format**
+
+n = no of elements
+
+**Constraints**
+
+1<=n<=100000
+
+**Output Format**
+
+print the armstrong numbers spcae seperated in a single line
+
+**Sample Input 0**
+
+```
+500
+```
+
+**Sample Output 0**
+
+```
+1 153 370 371 407
 ```
 
 <h1 align="center">.</h1>
