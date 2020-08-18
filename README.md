@@ -8,17 +8,18 @@
 [.](https://github.com/xiaowuc2/Research/blob/master/README.md)
 
 ### [Week-1](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-1)
+
 * C languange basics-1
 
-1. The average of 10 numbers using Array.c
-2. You are given two matrices of dimensions N x N, filled with integers. Your task is to print the product of these matrices.c
-3. Calculate the sum of array elements by passing to a function.c
-4. count a total number of duplicate elements in the array using function.c
-5. Calculate sum of all elements of an array using pointers as arguments..c
-6. Add array element.c
-7. Delete elements from Array.c
-8. Display humidity.c
-9. Second Highest number in Array.c
+1. The average of 10 numbers using Array
+2. You are given two matrices of dimensions N x N, filled with integers
+3. Calculate the sum of array elements by passing to a function
+4. count a total number of duplicate elements in the array using function
+5. Calculate sum of all elements of an array using pointers as arguments
+6. Add array element
+7. Delete elements from Array
+8. Display humidity
+9. Second Highest number in Array
 
 ### Week-2
 
