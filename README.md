@@ -21,6 +21,8 @@
  7. Delete elements from Array
  8. Display humidity
  9. Second Highest number in Array
+ 
+ <h1 align="center">.</h1>
 
 ### [Week-2](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-2)
 
@@ -34,6 +36,8 @@
  7. You have been given an array of n positive numbers. Now print the same array of n length but here every index will contain the sum of all the elements in the array except the element on that index. For example a[i] = a[0]+a[1]+….+a[i-1]+a[i+1]+…+a[n-1]
  8. Check whether a matrix of nXm size is sparse or not
  9. Transpose of a matrix
+ 
+ <h1 align="center">.</h1>
 
 ### [Week-3](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-3)
 
@@ -47,6 +51,8 @@
  7. Write a Python program to solve (x + y) * (x + y)
  8. convert seconds to day, hour, minutes and second
  9. Sort three integers using conditional statements
+ 
+ <h1 align="center">.</h1>
 
 ### [Week-4](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-4)
 
@@ -59,6 +65,8 @@
  6. Armstrong or not
  8. prime or not
  9. print all factors
+ 
+ <h1 align="center">.</h1>
 
 ### [Week-5](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-5)
 
@@ -71,6 +79,8 @@
  6. You have a set of elements stored in a linked lsit. Delete all the odd numbers from the linked list
  7. You have two linked lists given. Merge them into a single list
  8. Sort the list using bubble sort
+ 
+ <h1 align="center">.</h1>
 
 ### [Week-6](https://github.com/xiaowuc2/DSA-UEMK/tree/master/Week-6)
 
@@ -83,4 +93,6 @@
  6. Take a paragraph as input and then delete all the white spaces at the beginning and the end of the paragraph
  7. Take a sentence as input. Take two integer numbers as input. Print the substring starting and ending at the positions same as those numbers
  8. Given 2 strings, str1, and str2 return a new string made of the first, middle and last char of each of the input strings. characters from the 1st srting will be in lowercase and characters from the 2nd srting will be in uppercase
+ 
+ <h1 align="center">.</h1>
 
