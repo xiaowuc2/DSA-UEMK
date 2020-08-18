@@ -18,8 +18,34 @@
 
 ### Question Overview <img width="25px" src="https://github.com/xiaowuc2/All-readme-templates/blob/master/sources/overview.jpg" align="center"/>
 
+**1.** Write program to find the prime numbers in a range using function.
 
-**1.** Write a function to calculate GCD of two numbers and then call the function to get GCD of 4 numbers
+**Input Format**
+
+n = range of number
+
+**Constraints**
+
+2<=n<=10000
+
+**Output Format**
+
+print all the prime numbers in a single line and they should be space separated
+
+**Sample Input 0**
+
+```
+10
+```
+
+**Sample Output 0**
+
+```
+2 3 5 7 
+```
+
+
+**3.** Write a function to calculate GCD of two numbers and then call the function to get GCD of 4 numbers
 
 **Input Format**
 
