@@ -7,7 +7,7 @@
 
 [.](https://github.com/xiaowuc2/Research/blob/master/README.md)
 
-<img width="40px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/download.png" align="center"/> Challanege is Active on [**Hackerrank**](https://www.hackerrank.com/contests/ds-algo-lab-week-4/challenges) `18/08/20`
+<img width="40px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/download.png" align="center"/> Challanege is Active on [**Hackerrank**](https://www.hackerrank.com/contests/ds-algo-lab-week-4/challenges) `06/07/20`
 
 
 [.](https://github.com/xiaowuc2/Research/blob/master/README.md)
